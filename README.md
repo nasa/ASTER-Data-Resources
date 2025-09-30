@@ -4,7 +4,7 @@
 
 This repository is a place to find data user resources that demonstrate how to use Advanced Spaceborne Thermal Emission and Reflection Radiometer [(ASTER)](https://terra.nasa.gov/about/terra-instruments/aster) [Version 4 Products](https://www.earthdata.nasa.gov/news/feature-articles/nasa-begins-final-aster-data-processing-campaign) from NASA's [LP DAAC](https://www.earthdata.nasa.gov/centers/lp-daac).
 
-Content include in this repository are listed below.
+Content included in this repository are listed below.
 
 | Resource | Type | Summary |
 |----|-----|----|
