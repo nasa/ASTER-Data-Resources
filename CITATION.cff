@@ -1,11 +1,11 @@
 cff-version: 1.2.0
-title: LPDAAC Data Resources
+title: ASTER Data Resources
 message: >-
   If you use this collection of resources in your research
-  we would appreciate an appropriate citation.
+  please cite this resource as well as the ASTER data products used.
 type: software
 authors:
-- given-names: Nathan J
+  - given-names: Nathan J
     family-names: Roberts
     affiliation: >-
       KBR, Inc., Contractor to the U.S. Geological Survey,
