@@ -4,3 +4,7 @@
 
 # local development
 *.tif*
+*.hdf*
+*.json*
+/.ignore/
+
