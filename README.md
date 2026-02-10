@@ -8,7 +8,7 @@
 
 ## Prerequisites/Setup Instructions  
 
-Instructions for setting up a compatible environment for working with ECOSTRESS data is linked below.
+Instructions for setting up a compatible environment for working with ASTER data is linked below.
 + [`Python` set up instructions](https://github.com/nasa/LPDAAC-Data-Resources/tree/main/setup/setup_instructions_python.md)
 
 ## Getting Started  
