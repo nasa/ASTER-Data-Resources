@@ -6,6 +6,8 @@
 [![Python](https://img.shields.io/badge/python-3.12-blue.svg)](https://www.python.org/downloads/)
 [![Cite this repo](https://img.shields.io/badge/Cite-ASTER--Data--Resources-blue)](https://github.com/nasa/ASTER-Data-Resources/blob/metadata_tutorial/CITATION.cff)
 
+Welcome to the ASTER-Data-Resources repository! This repository provides guides, short how-tos, and tutorials to help users access and work with data from the Advanced Spaceborne Thermal Emission and Reflection Radiometer (ASTER) mission. With the competion of the [Final ASTER processing campaign](https://www.earthdata.nasa.gov/news/feature-articles/nasa-begins-final-aster-data-processing-campaign) and release of version 4 products, over 4.7 million ASTER observations from 2000 to 2025 are now available in the archive!
+
 ## Prerequisites/Setup Instructions  
 
 Instructions for setting up a compatible environment for working with ASTER data is linked below.
