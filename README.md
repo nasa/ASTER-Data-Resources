@@ -24,6 +24,7 @@ Clone or download the [ASTER-Data-Resources repository](https://github.com/nasa/
 |Resource|Type|Summary|
 |:---|:---|:---|
 | **[Exploring ASTER L1T Radiance](/python/tutorials/Exploring_ASTER_L1T_Radiance.ipynb)** | Jupyter Notebook | Search, access, and work with ASTER L1T Radiance|
+| **[Exploring ASTER 08 Surface Kinetic Temperature](/python/tutorials/Exploring_AST_08_Surface_Kinetic_Temperature.ipynb)** | Jupyter Notebook | Search, access, and work with ASTER 08 Surface Kinetic Temperature|
 | **[Finding and Accessing ASTER Data](/python/tutorials/Finding_and_Accessing_ASTER_V4_Data.ipynb)** | Jupyter Notebook | Search, access, and filter ASTER Version 4 data collections using UMM metadata with the `earthaccess` Python library|
 
 ## Citation
